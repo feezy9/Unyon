@@ -10,8 +10,8 @@ UNYON is for front-end developer who want to test their accuracy while coding in
 
 1. Download [Adobe Air](http://www.adobe.com/products/air/)
 2. Download [UNYON](https://github.com/feezy9/Unyon)
-3. Drop your and image or PSD file on UNYON
-4. Drag it over your browser. (Resize if necessary)
+3. Drop an image or PSD file on UNYON
+4. Drag it over your browser (resize if necessary)
 5. Start coding
 
 #Contact#
